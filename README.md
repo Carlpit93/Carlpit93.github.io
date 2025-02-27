@@ -1,2 +1,141 @@
 Carl Adam Pitamber CV Portfolio
 link for GitHub webpage Carlpit93.github.io
+
+
+<!DOCTYPE html>
+<html>
+
+<style>
+h1 {
+color: black; 
+font-family: monospace;
+text-align: center}
+h2 {
+color: black; 
+font-family: monospace;}
+p { 
+color: black;
+font-family: monospace}
+ul {
+font-family: monospace}
+body { background-color: #add8e6;}
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh }
+section {
+padding: 40px;
+margin: 20px auto;
+background: white;
+width: 80%;
+max-width: 900px;
+border-radius: 10px;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+footer {
+background-color: #333;
+color: white;
+text-align: center;
+padding: 10px 0}
+</style>
+
+<head>
+<h1>CV of Carl Adam Pitamber </h1>
+<div class="image">
+<img src="profile-picture.jpg" alt="blank"
+ width= 250px height = 300px
+ border-radius= 50%;
+ border= 4px solid #0073e6>
+</div>
+</head>
+
+<body>
+<section 1>
+<h2>Contact Information:</h2>
+
+<p>LinkedIn: <a href="https://www.linkedin.com/in/carl-pitamber-b99461b5"> Carl Pitamber </a> </p>
+<p>Location: Johannesburg, South Africa </p>
+</section 1>
+
+<section 2>
+<h2>Professional Summary: </h2>
+
+<p> Aspiring Salesforce Administrator with foundational skills in JavaScript coding and the Salesforce ecosystem. Currently undergoing training at Capitec Bank LTD together with UMUZI, gaining hands-on experience in data management and Agile methodology. Proficient in Visual Studio Code and the Salesforce Trailhead platform. Adept at communication and teamwork, driven by a strong commitment to continuous learning and growth. </p>
+</section 2>
+
+<section 3>
+<h2>Career Goal: </h2>
+
+<p>My goal is to leverage my technical skills and knowledge in Salesforce to become a proficient Salesforce Administrator, helping organizations streamline their processes and improve customer relationships. I am dedicated to achieving this through continuous learning and practical experience, ultimately contributing to the success of my team and company. </p>
+</section 3>
+
+<section 4>
+<h2>Key Skills: </h2>
+<ul>
+<li> JavaScript coding (beginner) </li>
+<li> SQL (intermediate) </li>
+<li> Salesforce Ecosystem (beginner) </li>
+<li> Data management </li>
+<li> Agile methodology </li>
+<li> Communication skills </li>
+<li> Systems: Google Analytics, Visual Studio Code, Salesforce Trailhead platform</li>
+</ul>
+</section 4>
+
+<section 5>
+<h2>Work Experience: </h2>
+<ul>
+<li>Salesforce Administrator in Training Capitec Bank LTD, </li>
+<p> Johannesburg, South Africa September 2024 - Present</p>
+<p> Currently undergoing training as a Salesforce Administrator. </p>
+<p> Gaining hands-on experience in data management and Agile methodology. </p>
+<p> Utilizing systems such as Google Analytics, Visual Studio Code, and Salesforce Trailhead platform. </p>
+</ul>
+</section 5>
+
+<section 6>
+<h2> Education: </h2>
+<ul>
+<li> Information Systems Certificate, </li>
+<p> Umuzi African Coding Network September 2024 - Current </p>
+<li> Banking Certificate NQF 4 and 5, </li>
+<p> Cornerstone Institute January 2020 - December 2021 </p>
+</ul>
+
+
+<h2> Certifications and Training: </h2>
+<ul>
+<li> Google Analytics 4 (Getting Started) </li>
+<li> Google Analytics 4 (Managing GA Data and Reports) </li>
+<li> SOLO Learn SQL beginner and Intermediate certification </li>
+</ul>
+</section 6>
+
+<section 8>
+<h2> Projects/Portfolio: </h2>
+<p> Internal Project: MUB </p>
+<p> Completed an internal project with UMUZI called MUB.</p>
+<p> Introduced Agile Methodology and collaborated with a team to complete a design thinking sprint. </p>
+<p>Created a prototype for Capitec Bank, identifying a market gap. </p>
+<p> Presented the prototype to Capitec Bank for future development consideration. </p>
+</section 8>
+
+<section 9>
+<h2> Languages: </h2>
+<ul>
+<li> English (Fluent) </li>
+<li> Afrikaans (Advanced) </li>
+</ul>
+
+<h2> Interests: </h2>
+<p>I have a diverse range of interests including traveling, motorcycle racing, and watching rugby. In my free time, I also enjoy spending quality time with loved ones. Additionally, I am dedicated to honing my JavaScript skills by practicing on platforms such as Code Wars and LeetCode. </p>
+</body>
+</section 9>
+
+
+<footer>
+    <p>&copy; 2025 Carl Pitamber</p>
+</footer>
+
+</html>
